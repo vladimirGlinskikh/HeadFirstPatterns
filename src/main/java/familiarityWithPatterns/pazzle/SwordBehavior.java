@@ -1,4 +1,4 @@
-package pazzle;
+package familiarityWithPatterns.pazzle;
 
 public class SwordBehavior implements WeaponBehavior{
     @Override

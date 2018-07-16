@@ -1,4 +1,4 @@
-package pazzle;
+package familiarityWithPatterns.pazzle;
 
 public class Queen extends Character {
     KnifeBehavior knifeBehavior = new KnifeBehavior();

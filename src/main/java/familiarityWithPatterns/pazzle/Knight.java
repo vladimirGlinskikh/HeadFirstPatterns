@@ -1,4 +1,4 @@
-package pazzle;
+package familiarityWithPatterns.pazzle;
 
 public class Knight extends Character{
     AxeBehavior axeBehavior = new AxeBehavior();

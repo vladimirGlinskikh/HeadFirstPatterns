@@ -1,4 +1,4 @@
-package pazzle;
+package familiarityWithPatterns.pazzle;
 
 public class Troll extends Character{
 

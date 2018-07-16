@@ -1,4 +1,4 @@
-package pazzle;
+package familiarityWithPatterns.pazzle;
 
 public abstract class Character {
     WeaponBehavior weapon;
